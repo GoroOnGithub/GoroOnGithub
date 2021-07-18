@@ -4,10 +4,7 @@ Const.Presentation = {
 
 .SetPresentation ("Hey , welcome to my github page !")
 
-"About me ... :" ;
-
 .SetAboutMe ("Goro , budding coder passionate of infomatic and food")
-
 }
 
 Const.Hobies = {
